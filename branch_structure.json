@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/973-get-my-business"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/973-get-my-business": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/973-get-my-business"
+  ]
+}
